@@ -11,7 +11,7 @@ To log in to the application, you should use the email: **hi@gmail.com** and the
 This application is developed MVVM clean archirecture.
 
 ## Libraries Used
-- [Hilt](https://dagger.dev/hilt/gradle-setup) for dependency Injection
+- [Hilt](https://dagger.dev/hilt/gradle-setup) for dependency Injection.
 - [Retrofit](https://square.github.io/retrofit/)
 - [OkHttp](https://square.github.io/okhttp/)
 - [Gson](https://github.com/google/gson)
